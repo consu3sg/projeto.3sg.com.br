@@ -46,7 +46,7 @@ Esta inclusão é realizada no arquivo `php.ini`
 
 Obs: Neste arquivo readme, vamos considerar que o "XAMPP" esta instalado no diretório "C:\xampp\htdocs\"
 
-* Adicione as seguintes linhas no final do aqui:
+* Adicione as seguintes linhas no final do arquivo:
 
  `auto_prepend_file= "C:\xampp\htdocs\projeto.3sg.com.br\WEB-INF\config.header.php"`
  
