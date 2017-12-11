@@ -1,6 +1,6 @@
 # [Projeto de Leitura de XML com PHP](http://projeto.3sg.com.br/index.php)
 
-Este projeto tem a estrutura necessário para uma simples leitura de um arquivo XML.
+Este projeto tem a estrutura necessária para uma simples leitura de um arquivo XML.
 
 **[Demostração Online](http://projeto.3sg.com.br)**
 
