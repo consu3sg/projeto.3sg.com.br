@@ -14,7 +14,7 @@ Para começar, você irá precisar das seguintes ferramentas:
 
 ### Etapa 1
 
-Com o NetBeans aberto, Clique em `Arquivo`->`Novo Projeto`. Na categoria, selecione `PHP` e em seguida `Aplicação PHP com Códigos-fonte Existentes` e clique em "Próximo"
+Com o NetBeans aberto, clique em `Arquivo`->`Novo Projeto`. Em categorias, selecione `PHP` e em seguida `Aplicação PHP com Códigos-fonte Existentes` e clique em "Próximo"
 
 ![Print 1](http://projeto.3sg.com.br/prints/etapa1.png)
 
@@ -27,7 +27,7 @@ Nesta etapa vamos definir o nome e localização do projeto.
 
 Pasta de Fonte - Este deverá apontar o diretório baixado deste repositório
 
-Pasta de Metadados - Recomendo que seja criação na pasta onde foi instalado o "XAMPP"
+Pasta de Metadados - Recomendo que seja criado na pasta onde foi instalado o "XAMPP"
 
 Depois de definir tudo, clique em "Próximo".
 
