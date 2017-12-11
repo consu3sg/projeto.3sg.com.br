@@ -51,6 +51,13 @@ Obs: Neste arquivo readme, vamos considerar que o "XAMPP" esta instalado no dire
  `auto_prepend_file= "C:\xampp\htdocs\projeto.3sg.com.br\WEB-INF\config.header.php"`
  
  `auto_append_file= "C:\xampp\htdocs\projeto.3sg.com.br\WEB-INF\config.footer.php"`
+ 
+ ![Print 1](http://projeto.3sg.com.br/prints/etapa4.png)
+ 
+ Depois de adicionar as 2 linhas no final do arquivo, é necessário a reinicialização do Apache.
+ 
+ Parabêns ! Agora é só voltar para a janela do NetBeans e Executar o projeto 
+ 
 
 ## Sobre
 
